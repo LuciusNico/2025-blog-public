@@ -243,5 +243,15 @@
 			"emoji"
 		],
 		"stars": 5
+	},
+	{
+		"name": "VoiceCraft",
+		"logo": "blob:https://lucius-nico.vercel.app/13df1a1f-ea10-40b9-a8f7-defc081dc326",
+		"url": "https://tts.wangwangit.com/",
+		"description": "AI驱动的语音处理平台 ✨90+种语音选项 ⚡闪电般快速 🆓完全免费 📱支持下载",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
 	}
 ]
