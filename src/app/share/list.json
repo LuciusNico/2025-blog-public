@@ -232,5 +232,16 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Emojibase",
+		"logo": "https://emojibase.dev/img/logo.svg",
+		"url": "https://emojibase.dev/shortcodes?locale=en&filter=&group=-1&subgroup=-1",
+		"description": "提供 emoji 的 shortcodes",
+		"tags": [
+			"工具",
+			"emoji"
+		],
+		"stars": 5
 	}
 ]
