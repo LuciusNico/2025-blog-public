@@ -1,0 +1,15 @@
+{
+  "title": "【工作复盘】2026.03.30 Java后端日常问题汇总",
+  "tags": [
+    "SpringBoot",
+    "Maven",
+    "雪花算法",
+    "通信策略",
+    "mp"
+  ],
+  "date": "2026-03-30T23:16",
+  "summary": "2026.03.30 工作中遇到的一些问题汇总",
+  "cover": "/blogs/260330-java-backend-problems-springboot-mp-maven-polling/b251d7ca2a8ba7e8.png",
+  "hidden": false,
+  "category": "总结"
+}
